@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 .idea/*
 .idea/*
 
 
+=======
+>>>>>>> d96fbf23cc991ac5200064ac6a28cdeb42d9ba41
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -106,7 +109,11 @@ venv.bak/
 
 # mypy
 <<<<<<< HEAD
+<<<<<<< HEAD
 .mypy_cache/
+=======
+.mypy_cache/
+>>>>>>> d96fbf23cc991ac5200064ac6a28cdeb42d9ba41
 =======
 .mypy_cache/
 >>>>>>> d96fbf23cc991ac5200064ac6a28cdeb42d9ba41
