@@ -9,7 +9,7 @@
 from pyspark.sql import SparkSession
 
 if __name__ == '__main__':
-    mongodb_url = "mongodb://search:search%40huoli123@123.56.222.127/tips."
+    mongodb_url = "mongodb://xx:haha%40qq.com@123.56.xx.xxx/tips."
     spark = SparkSession \
         .builder \
         .appName("Connect MongoDB") \
